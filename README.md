@@ -1,6 +1,8 @@
-ElectionAnalysis
+#ElectionAnalysis
+
     Election Audit Overview
         This Election Audit provides a summary review of the recent Colorado election data
+        
     Election Audit Ask
         1. Calucate the total number of votes placed.
         2. Get a complete list of candidate who received votes.

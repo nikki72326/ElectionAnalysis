@@ -1,4 +1,4 @@
-#ElectionAnalysis
+ElectionAnalysis
 
     Election Audit Overview
         This Election Audit provides a summary review of the recent Colorado election data
